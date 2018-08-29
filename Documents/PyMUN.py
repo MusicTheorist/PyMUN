@@ -9,7 +9,7 @@ from prettytable import PrettyTable #@UnresolvedImport
 
 getcontext().prec = 50
 
-print("PyMUN - Turn-based National Finance Simulator/Calculator - Version 2.35" '\n' "+- written by John Reynolds" '\n')
+print("PyMUN - Turn-based National Finance Simulator/Calculator - Version 2.35" '\n' "+- written by MusicTheorist" '\n')
 
 day = 1440 #in minutes
 week = day * 7
